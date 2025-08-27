@@ -5,6 +5,8 @@ The details are as follows.
 
 The slides and reports are listed to help others get a better understanding of the workload and work done with stages.
 
+This project was started in October 2024 and completed in December 2024.
+
 ---
 # Development Timeline
 
