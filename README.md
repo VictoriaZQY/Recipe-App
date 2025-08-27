@@ -17,8 +17,10 @@ The slides and reports are listed to help others get a better understanding of t
 ---
 
 # Brief Overview of the Open-Source App: **Kandean**
+<img width="1315" height="642" alt="home (1)" src="https://github.com/user-attachments/assets/7be4c9df-3d5a-4bdb-ae4b-0fa9059874c9" />
+<img width="1035" height="671" alt="login" src="https://github.com/user-attachments/assets/525aeb32-01a3-4797-bc56-4df07d5d53eb" />
 
-With the original version of **Kandean**, users can effortlessly create, post, and share their unique recipes, and comment, like, and save various recipes.
+With the original version of **Kandean** (https://github.com/KEVINGILBERTTODING/Recipe-app.git), users can effortlessly create, post, and share their unique recipes, and comment, like, and save various recipes.
 
 The coming version of this app will also provide a _digital fridge_ that tracks available ingredients. Possible upcoming features include timely reminders for items nearing expiration, automatic updates to the stored quantity of each item, and shopping suggestions when ingredients run low.
 
@@ -27,6 +29,8 @@ While most popular recipe applications focus on creating/sharing recipes or diet
 ---
 
 # ALPHA SUBMISSION
+![digital fridge](https://github.com/user-attachments/assets/7905d266-de47-4bea-af83-1e3328baa85a)
+![create   edit](https://github.com/user-attachments/assets/7aaa704a-6308-411e-8298-239443c617cd)
 ## Newly Implemented Features
 - **Digital Fridge Display:** the items in the fridge will be displayed in a scrollable page with a search bar above.
 - **A Floating Button:** users can add new item by clicking a floating button on the Digital Fridge page, which provide 2 ways to achieve: write the item and scan the barcode of the item (still developing).
@@ -37,6 +41,10 @@ While most popular recipe applications focus on creating/sharing recipes or diet
 ---
 
 # BETA SUBMISSION
+![create](https://github.com/user-attachments/assets/7b3ca264-7ad9-4888-b75a-a68d80e8bb01)
+![df](https://github.com/user-attachments/assets/86022265-2bd9-46a8-88ef-e1a4225934f0)
+![detail](https://github.com/user-attachments/assets/a57f3b23-0ed0-4081-8635-9f598db1c4fe)
+
 ## Newly Implemented Feature: Auto-decreasing Ingredients
 
 Add a function that automatically decreases the quantity of an ingredient in the digital fridge when it is used in a recipe. This is achieved by clicking the **USED** button for the ingredient; it will update the quantity of the item or delete it if used up.
@@ -73,6 +81,8 @@ This logic is managed by the `processItemUpdate` function in the `IngredientAdap
 ---
 
 # FINAL SUBMISSION
+![微信图片_20241220025744](https://github.com/user-attachments/assets/d9e8a843-7758-4dad-bd95-1bdda676396e)
+
 ## Newly Implemented Feature: Storage Category Filter
 
 In the Digital Fridge Display page, a category tab is added under the search bar. Users can click different category tabs to display corresponding items.
